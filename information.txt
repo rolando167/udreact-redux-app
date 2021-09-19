@@ -1,11 +1,32 @@
 -----------------------
 18/09/2021 - udemy curso
 
+------------
+Instalar Router
+
+> npm i react-router-dom
+-----------------------
+
+Se usará json-server, simular una API
+https://github.com/typicode/json-server#getting-started
+
+
+>npm install -g json-server
+
+Luego iniciar el server con:
+
+>json-server db.json --port 4000
+
+http://localhost:4000/productos
+
+-----------------------
+Instalar redux y otros
+
+>npm i react-redux redux redux-thunk
 
 -----------------------
 
 
 -----------------------
-
 
 -----------------------
