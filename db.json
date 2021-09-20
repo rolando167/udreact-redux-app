@@ -1,79 +1,59 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Jugo de Zanahoria",
-      "precio": "31111"
-    },
-    {
-      "id": 2,
-      "nombre": "Jugo de Naranja",
-      "precio": "1"
-    },
-    {
-      "nombre": "Jugo de Naranja",
-      "precio": "300",
-      "id": 3
-    },
-    {
-      "nombre": "Rib Eye 800g",
-      "precio": "200",
+      "nombre": "Peras",
+      "precio": "700",
       "id": 4
     },
     {
-      "nombre": "Jugo de Fresa",
-      "precio": "200",
-      "id": 5
-    },
-    {
-      "nombre": "cas",
-      "precio": 23232,
-      "id": 6
-    },
-    {
-      "nombre": "Nuevo",
-      "precio": 454554,
+      "nombre": "iphone",
+      "precio": "19992",
       "id": 7
     },
     {
-      "nombre": "mantequilla",
-      "precio": 12,
+      "nombre": "ipad 5g",
+      "precio": "2999",
       "id": 8
     },
     {
-      "nombre": "tarta",
-      "precio": 4541,
+      "nombre": "lapiz",
+      "precio": 6000,
       "id": 9
     },
     {
-      "nombre": "test",
-      "precio": 323,
+      "nombre": "tijera",
+      "precio": 95450,
       "id": 10
     },
     {
-      "nombre": "cas",
+      "nombre": "saeas",
       "precio": 3232,
-      "id": 11
-    },
-    {
-      "nombre": "siii",
-      "precio": 32323,
       "id": 12
     },
     {
-      "nombre": "noooo",
-      "precio": 4545,
+      "nombre": "casd",
+      "precio": 3231,
       "id": 13
     },
     {
-      "nombre": "iphone",
-      "precio": 4521,
+      "nombre": "casdasd",
+      "precio": 2323,
       "id": 14
     },
     {
-      "nombre": "ipad",
-      "precio": 451,
+      "nombre": "dsadasda",
+      "precio": 32323,
       "id": 15
+    },
+    {
+      "nombre": "casdasd",
+      "precio": 323212,
+      "id": 16
+    },
+    {
+      "nombre": "jajajaja",
+      "precio": 232323,
+      "id": 17
     }
   ]
 }
